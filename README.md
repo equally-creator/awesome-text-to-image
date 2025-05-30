@@ -2,22 +2,22 @@
 
 ## 🛠️ Open Source Projects
 
-- [LocalAI](github.com/mudler/LocalAI): Open Source MIT Licensed.   The free, OpenAI, Anthropic alternative. Your All-in-One Complete AI Stack - Run powerful language models, autonomous agents, and document intelligence locally on your hardware. No cloud, no limits, no compromise.
-- [mmagic](github.com/open-mmlab/mmagic): OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.
-- [IP-Adapter](github.com/tencent-ailab/IP-Adapter): The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.
-- [nexa-sdk](github.com/NexaAI/nexa-sdk): Nexa SDK is a comprehensive toolkit for supporting GGML and ONNX models. It supports text generation, image generation, vision-language models (VLM), Audio Language Model, auto-speech-recognition (ASR), and text-to-speech (TTS) capabilities.
-- [Awesome-Controllable-T2I-Diffusion-Models](github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models): A collection of resources on controllable generation with text-to-image diffusion models.
-- [big-AGI](github.com/enricoros/big-AGI): AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
-- [dreambooth-action](github.com/replicate/dreambooth-action): Train your own custom DreamBooth text-to-image model using a GitHub Actions workflow
-- [diffusers](github.com/huggingface/diffusers): Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
-- [rich-text-to-image](github.com/songweige/rich-text-to-image): Rich-Text-to-Image Generation
-- [imagen-pytorch](github.com/lucidrains/imagen-pytorch): Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
+- [LocalAI](https://github.com/mudler/LocalAI): Open Source MIT Licensed.   The free, OpenAI, Anthropic alternative. Your All-in-One Complete AI Stack - Run powerful language models, autonomous agents, and document intelligence locally on your hardware. No cloud, no limits, no compromise.
+- [mmagic](https://github.com/open-mmlab/mmagic): OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.
+- [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter): The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.
+- [nexa-sdk](https://github.com/NexaAI/nexa-sdk): Nexa SDK is a comprehensive toolkit for supporting GGML and ONNX models. It supports text generation, image generation, vision-language models (VLM), Audio Language Model, auto-speech-recognition (ASR), and text-to-speech (TTS) capabilities.
+- [Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models): A collection of resources on controllable generation with text-to-image diffusion models.
+- [big-AGI](https://github.com/enricoros/big-AGI): AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
+- [dreambooth-action](https://github.com/replicate/dreambooth-action): Train your own custom DreamBooth text-to-image model using a GitHub Actions workflow
+- [diffusers](https://github.com/huggingface/diffusers): Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
+- [rich-text-to-image](https://github.com/songweige/rich-text-to-image): Rich-Text-to-Image Generation
+- [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch): Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
 
 ## 🆓 Free Programs
 
-- [Fotor](fotor.com/ai-image-generator/): Fotor's online photo editor makes it super easy and fast to edit photos. Fotor transforms text prompts into polished social-media–ready images in seconds.
-- [Picsart](picsart.com/ai-image-generator/): A mobile-first creative suite whose AI engine turns simple prompts into stylized artworks or edits existing photos with effects like background removal.
-- [Canva](canva.com/ai-image-generator/): The all-in-one graphic-design tool now includes “Text to Image,” an AI feature that produces customizable illustrations and backgrounds for any template.
+- [Fotor](https://fotor.com/ai-image-generator/): Fotor's online photo editor makes it super easy and fast to edit photos. Fotor transforms text prompts into polished social-media–ready images in seconds.
+- [Picsart](https://picsart.com/ai-image-generator/): A mobile-first creative suite whose AI engine turns simple prompts into stylized artworks or edits existing photos with effects like background removal.
+- [Canva](https://canva.com/ai-image-generator/): The all-in-one graphic-design tool now includes “Text to Image,” an AI feature that produces customizable illustrations and backgrounds for any template.
 - [Vheer](vheer.com/ai-text-to-image): Vheer’s own AI text-to-image tool that offers a broad range of styles—from photographic realism to abstract art—via a simple prompt box.
 - [AI Ease](aiease.ai/app/generate-images/): AIEASE is an online photo editor that provides a set of tools driven by advanced algorithms to speed up the editing efficiency and create beautiful and professional images online for free.
 - [Monica](monica.im/image-tools/ai-image-generator-from-text?model=sdxl&keywords=sunset&channel=image_generator): A lightweight browser tool offering SDXL-powered text-to-image generation with channel-based prompt management and quick keyword presets.
