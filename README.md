@@ -25,6 +25,7 @@
 - [Microsoft](https://create.microsoft.com/en-us/features/ai-image-generator): Embedded in Microsoft 365, this AI-assisted image creator transforms text descriptions into visuals you can drop into Word, PowerPoint, or Teams.
 - [pik](https://pik.com/ai/image-generator): A minimalistic online generator providing fast, filter-style image synthesis with simple prompt inputs and instant download.
 - [Perchance](https://perchance.org/ai-text-to-image-generator): A community-driven “randomizer” that can spin up simple text-to-image generators you configure via templates and keyword lists.
+- [Eimu](https://eimu.art): Online GPT Image 2 & Nano Banana Pro generator — no relay station setup or API key required, sign in, generate and download directly.
 - [Dezgo](https://dezgo.com/): An SD-based art generator that emphasizes a clean, ad-free interface and shareable galleries for AI-created images.
 - [Pixlr](https://pixlr.com/image-generator/): Known for its photo-editing apps, Pixlr also offers an AI Image Generator that seamlessly combines prompt creation with traditional edit tools.
 - [Magic Studio](https://magicstudio.com/ai-art-generator/): A suite of AI content tools—among them an art generator that produces detailed scenes and character designs from text.
