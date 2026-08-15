@@ -40,6 +40,7 @@
 - [Akool](https://akool.com/apps/image-generator): A lightweight, straightforward AI image maker with drag-and-drop prompt building and instant download.
 - [Lumos Learning](https://lumoslearning.com/llwp/-online-image-generator.html): An educational site’s experiment in AI art that lets students generate textbook illustrations from curriculum-aligned prompts.
 - [GenApe AI](https://app.genape.ai/text-to-image): GenApe is an AI writing, copywriting, content creation and rewriting tool with a free trial.
+- [Eimu](https://eimu.art): Online GPT Image 2 & Nano Banana Pro generator - no relay station setup or API key required, sign in and download.
 
 ## 💰 Paid Programs
 
