@@ -14,6 +14,7 @@
 - [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch): Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
 
 ## 🆓 Free Programs
+- [Raphael AI](https://raphael.app): Free unlimited AI image generator (text-to-image, no signup).
 
 - [Fotor](https://fotor.com/ai-image-generator/): Fotor's online photo editor makes it super easy and fast to edit photos. Fotor transforms text prompts into polished social-media–ready images in seconds.
 - [Picsart](https://picsart.com/ai-image-generator/): A mobile-first creative suite whose AI engine turns simple prompts into stylized artworks or edits existing photos with effects like background removal.
