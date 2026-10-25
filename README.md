@@ -16,6 +16,7 @@
 ## 🆓 Free Programs
 
 - [Fotor](https://fotor.com/ai-image-generator/): Fotor's online photo editor makes it super easy and fast to edit photos. Fotor transforms text prompts into polished social-media–ready images in seconds.
+- [PromptImage](https://promptimage.cloud/): Free AI image & video studio with a prompt library. Signup credits and multi-model generation — no card needed.
 - [Picsart](https://picsart.com/ai-image-generator/): A mobile-first creative suite whose AI engine turns simple prompts into stylized artworks or edits existing photos with effects like background removal.
 - [Canva](https://canva.com/ai-image-generator/): The all-in-one graphic-design tool now includes “Text to Image,” an AI feature that produces customizable illustrations and backgrounds for any template.
 - [Vheer](https://vheer.com/ai-text-to-image): Vheer’s own AI text-to-image tool that offers a broad range of styles—from photographic realism to abstract art—via a simple prompt box.
