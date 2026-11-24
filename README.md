@@ -15,6 +15,7 @@
 
 ## 🆓 Free Programs
 
+- [Seedream 5.5](https://seedream55.io/): Runs the Seedream 5.5 image generator in the browser, turning text or up to 10 reference images into a 2K or 4K image, with free credits on Google sign-up.
 - [Fotor](https://fotor.com/ai-image-generator/): Fotor's online photo editor makes it super easy and fast to edit photos. Fotor transforms text prompts into polished social-media–ready images in seconds.
 - [Picsart](https://picsart.com/ai-image-generator/): A mobile-first creative suite whose AI engine turns simple prompts into stylized artworks or edits existing photos with effects like background removal.
 - [Canva](https://canva.com/ai-image-generator/): The all-in-one graphic-design tool now includes “Text to Image,” an AI feature that produces customizable illustrations and backgrounds for any template.
